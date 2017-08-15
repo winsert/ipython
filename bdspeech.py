@@ -12,10 +12,9 @@ sys.setdefaultencoding("utf-8")
 from aip import AipSpeech
 
 # 定义常量
-APP_ID = "9969837"
-API_KEY = "8G8Y0VYv9yeXQIUAKvaHY51c"
-SECRET_KEY = "916d07ff585ceef514bd2be57dbd070f"
-test = '你不好百度'
+APP_ID = "xxxx"
+API_KEY = "xxxx"
+SECRET_KEY = "xxxx"
 
 # 初始化AipSpeech对象
 aipSpeech = AipSpeech(APP_ID, API_KEY, SECRET_KEY)
