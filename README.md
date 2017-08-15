@@ -5,6 +5,8 @@ bird.py     学习使用turtle，编写鸟儿飞行
 
 brick.py     用pygame编写的打砖块游戏
 
+bdspeech.py 百度语间合成
+
 conway.py   生命游戏
 
 cpu.py      查看系统CPU温度
