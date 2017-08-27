@@ -5,7 +5,19 @@ bird.py     学习使用turtle，编写鸟儿飞行
 
 brick.py     用pygame编写的打砖块游戏
 
-bdspeech.py 百度语间合成
+bdspeech.py 百度语音合成
+
+bdsb.py     百度语音识别
+bdhc.py     百度语音合成
+
+button.py    ReSpeaker Button
+button1.py   ReSpeaker Button 开启结束程序
+button2.py   ReSpeaker Button 开启结束程序
+button_test.py   用于测试ReSpeaker Button 开启结束程序
+
+bWeather.py 用百度语音合成实现天气实况播报
+
+pyaudio_record.py   用pyaudio实现录音功能
 
 conway.py   生命游戏
 
@@ -26,4 +38,7 @@ pm25.py     查看指定城市PM2.5信息
 pong.py     用pygame编写的用鼠标控制的打pong游戏
 
 swith.py    测试yeeling的开关
+
 yeelink.py  测试yeelink
+
+yuyin.py    用pyaudi和百度语音API实现语音合成、语音识别
