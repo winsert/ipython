@@ -11,9 +11,9 @@ bdsb.py     百度语音识别
 bdhc.py     百度语音合成
 
 button.py    ReSpeaker Button
-button1.py   ReSpeaker Button 开启结束程序
-button2.py   ReSpeaker Button 开启结束程序
-button_test.py   用于测试ReSpeaker Button 开启结束程序
+button1.py   ReSpeaker Button 测试开启结束程序
+button2.py   ReSpeaker Button 测试开启结束程序
+button_test.py   用于测试ReSpeaker Button 测试开启结束程序
 
 bWeather.py 用百度语音合成实现天气实况播报
 
@@ -41,4 +41,5 @@ swith.py    测试yeeling的开关
 
 yeelink.py  测试yeelink
 
-yuyin.py    用pyaudi和百度语音API实现语音合成、语音识别
+yuyin_1.py    用pyaudi和百度语音API实现语音合成、语音识别
+yuyin_2.py    用pyaudi和百度语音API实现部分语音操控功能

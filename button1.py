@@ -24,7 +24,7 @@ while True:
                     if count == 2:
                         dingdangrun = False
                         count = 0
-                        os.system("kill -9 $(ps -aux | grep python | awk '/ipython\.py/{print $2}') &")
+                        os.system("ps -ef|grep "button_test.py"|grep -v grep |awk '{print "kill -9 "$2}' | sh &")
                 while button.is_pressed:
                     pass
             else:
