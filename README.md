@@ -11,9 +11,8 @@ bdsb.py     百度语音识别
 bdhc.py     百度语音合成
 
 button.py    ReSpeaker Button
-button1.py   ReSpeaker Button 测试开启结束程序
-button2.py   ReSpeaker Button 测试开启结束程序
-button_test.py   用于测试ReSpeaker Button 测试开启结束程序
+button_kill.py   用Button 测试开启kill结束程序
+button_test.py   用于Button 测试开启kill结束程序
 
 bWeather.py 用百度语音合成实现天气实况播报
 
