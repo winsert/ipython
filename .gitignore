@@ -1,0 +1,10 @@
+*.pyc
+*.pkl
+*.png
+*.bak
+*.db
+*.mp3
+*.wav
+bdhc.py
+bdsb.py
+Weather.py
