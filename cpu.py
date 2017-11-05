@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 import commands, datetime
 
 def get_cpu_temp():
